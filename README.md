@@ -1,20 +1,18 @@
-# Getting Started with Create React App
+# Hamburgers Delivery Mini-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a hamburgers delivery mini-app, using Create React App to create basic project structure, HTML &CSS to style every component within the project, Javascript to present interactive functions. React is also used to create project framework and achieve component development
 
-## Available Scripts
+## Scaffolding
 
-In the project directory, you can run:
+In the project directory, scaffolding Create React App is used.
 
-### `npm start`
+### HTML & CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.CSS Module is used to make sure all class names are scoped locally.
+2.CSS Box Model is used to create the design and layout of the whole pages.
+3.Flexbox is used to align and and distribute space among food items in the food list, cart list searching list and so on.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
+### Javascript
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
