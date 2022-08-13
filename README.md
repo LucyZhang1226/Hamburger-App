@@ -12,7 +12,7 @@ In the project directory, scaffolding Create React App is used.
 
 2.CSS Box Model is used to create the design and layout of the whole pages.
 
-3.Flexbox is used to align and and distribute space among food items in the food list, cart list, searching list and so on.
+3.Flexbox is used to align and distribute space among food items in the food list, cart list, searching list and so on.
 
 ### Javascript
 
