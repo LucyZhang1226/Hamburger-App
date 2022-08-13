@@ -20,7 +20,7 @@ Javascript is used to create dynamic and interactive data of hamburgers, like am
 
 ### React
 
-Use hook and props to make sure cart list data update in real time whenever customers change what they order and food data can be passed between arbitary two components.
+Use hook and props to make sure cart list data update in real time whenever customers change what they order and food data can be passed between arbitrary two components.
 
 ### Webpack
 
