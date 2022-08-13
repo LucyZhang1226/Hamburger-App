@@ -1,6 +1,6 @@
 # Hamburgers Delivery Mini-App
 
-This is a hamburgers delivery mini-app, using Create React App to create basic project structure, HTML &CSS to style every component within the project, Javascript to present interactive functions. React is also used to create project framework and achieve component development
+This is a hamburgers delivery mini-app, using Create React App to create basic project structure, HTML &CSS to style every component within the project and Javascript to present interactive functions. React is also used to create project framework and achieve component development
 
 ## Scaffolding
 
