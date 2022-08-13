@@ -16,7 +16,7 @@ In the project directory, scaffolding Create React App is used.
 
 ### Javascript
 
-Javascript is used to create dynamic and interactive amount, prices and items of hamburgers.
+Javascript is used to create dynamic and interactive data of hamburgers, like amount, prices and items.
 
 ### React
 
